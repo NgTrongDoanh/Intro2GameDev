@@ -1,0 +1,1403 @@
+fileFormatVersion: 2
+guid: 1e0a0552b26729cf8a214c30fd1a2582
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doraemon_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 330
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510ca61ab1e7d9990a63cb6dc60cd19d
+      internalID: 1037245782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 331
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d08e2f571f9c5a9321ab62e0988c5
+      internalID: 1004900909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 330
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b99e4752f5860d18d01b2b5b496aaa
+      internalID: 1173623165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 330
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6fa2953f9ca004a74b4a346f76d4a
+      internalID: -188740273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 331
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73669cd4c8d08f920b91ee9467264de5
+      internalID: 16317401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 331
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4a2851adb751b2a71b488fc311757
+      internalID: -1400098219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 331
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2b2f72ba2d9374a3ddb3a7734fae5
+      internalID: -549209850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 328
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d300f875ce72a2e681bfcfa3bbef5b8
+      internalID: 234082799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 23
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f89437a638ce280b35f705fb829042
+      internalID: 2009505765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6130b1871321df9b91c575dff8d7a3
+      internalID: 16849717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 293
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0028c93dbf4d3552b30d12eb6a79c43
+      internalID: 895399125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 292
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf97c42221683f3bf9c89fb08b9e68
+      internalID: -910139995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 290
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52076f50bb56226cb8d08cb599fca209
+      internalID: -1017136164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 290
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2fbe62a344133f28faa88ed83ea1e2
+      internalID: -1686678824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5506f17581ee67e2ba6a9339a0936ca6
+      internalID: -2141026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 248
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1e776c731d8ef5f9e2cb10b0949ea5
+      internalID: 724217204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 249
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a9e3232ea19a38b1bfbad5ba1e0ac
+      internalID: -1917484858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 248
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585994a05a1ec310a959d43c3638be8
+      internalID: -227925726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 249
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5549d80ee8e02f38983581d70438e523
+      internalID: -1835437486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 248
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2669dfebd49786da2b7f7521b7235d4d
+      internalID: 584485342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 249
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e9c6808345886581c0c5cc257bf8b
+      internalID: 1611456900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 246
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef36bf17207b0233a809b20f6b9ca139
+      internalID: -491830480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bca45937349aff028af9f3a230cbe6e
+      internalID: -1444389729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31864a7869f6c1a8ba278dcae985d57
+      internalID: -1666533731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23194db39922f4da2ab0d695cf34e208
+      internalID: 1982514093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 208
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf0cef144db36bc19d806af2c003a80
+      internalID: 1385297937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 207
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cce477376d111a589c1ef5ba7745f4
+      internalID: 1774797606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 208
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6897e442364f16eb328003bf3ed0cd
+      internalID: -1510648985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9180ce55242fec9597fd8de463cc2e5
+      internalID: 2138248546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 166
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a655ab404d79191eca1e6236f49392b5
+      internalID: 32205349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 167
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5462eed8b1f2ca0e3a993d4b7bd2226a
+      internalID: 1420985610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 167
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be20a5493c75bdc934563f2178d944
+      internalID: 1781556306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 164
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ffb890456d5ac6fb70305ba93ae0d1
+      internalID: 1755303647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8bf2b4180da790ea41de4aa11679cc
+      internalID: -427683821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 125
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9184af6d0296521be0be9e7ed330e9
+      internalID: -918412078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 125
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18f34290a7c3849bd6519f93b9e7e7
+      internalID: 844844477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 125
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff46796a61ea0dd00b078ff556f85d5d
+      internalID: -1837506504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 126
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9b878cbbe105041b993bcd5eb8465a
+      internalID: -795480489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 126
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca37cd8aac509b86db767882b2afd39a
+      internalID: -1673573684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 126
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb732ea63600248985fa1546c15071
+      internalID: -967025623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 126
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e0884b50cad900a038922b2ee14d1
+      internalID: 324220562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 126
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4168253fed18d8396eb7e610d695c7
+      internalID: -1188309995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775a1e18046fed9890471c2e71119b9
+      internalID: -319045432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 85
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d40cf75605e5d1b4a06057215f99543
+      internalID: 4007122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 85
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe4338617d7dd9885d2293aa66971c
+      internalID: -1237701957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 86
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0c415e204d856c495dbf9e732bdb3e
+      internalID: 1331875948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 85
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4fce0a20cd410a1aae477923ed6599
+      internalID: -354057088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 86
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbbbde58e889285ea24a386596a2b74
+      internalID: -1131457374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_48
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 82
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f534cb674f40deb248da6e77cc88b
+      internalID: -1262307158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33abc13d42bc2c9709bb7a1dd612ecf0
+      internalID: 1108415030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 47
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc5393c68b1c65f96f25ab1fd69e4c
+      internalID: -2074088273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 45
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd7335cdb0e680082e5a520e58caaa
+      internalID: 1426066074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014dea742d706ef3c855b553245561bf
+      internalID: 1987684060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460192ac4664ef5c2ac96ea293063136
+      internalID: 1196006867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06fb31ea2141c6dc92dad8c69170303
+      internalID: 2044716195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112758e0afaa192d688c5ccc94caacf7
+      internalID: -620913264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4afa548bf36506928007eb12d28dc
+      internalID: -1873216082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doraemon_57
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c295498ba73f5b8086ccb28f8f076
+      internalID: 518978760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doraemon_0: 1037245782
+      doraemon_1: 1004900909
+      doraemon_10: 895399125
+      doraemon_11: -910139995
+      doraemon_12: -1017136164
+      doraemon_13: -1686678824
+      doraemon_14: -2141026932
+      doraemon_15: 724217204
+      doraemon_16: -1917484858
+      doraemon_17: -227925726
+      doraemon_18: -1835437486
+      doraemon_19: 584485342
+      doraemon_2: 1173623165
+      doraemon_20: 1611456900
+      doraemon_21: -491830480
+      doraemon_22: -1444389729
+      doraemon_23: -1666533731
+      doraemon_24: 1982514093
+      doraemon_25: 1385297937
+      doraemon_26: 1774797606
+      doraemon_27: -1510648985
+      doraemon_28: 2138248546
+      doraemon_29: 32205349
+      doraemon_3: -188740273
+      doraemon_30: 1420985610
+      doraemon_31: 1781556306
+      doraemon_32: 1755303647
+      doraemon_33: -427683821
+      doraemon_34: -918412078
+      doraemon_35: 844844477
+      doraemon_36: -1837506504
+      doraemon_37: -795480489
+      doraemon_38: -1673573684
+      doraemon_39: -967025623
+      doraemon_4: 16317401
+      doraemon_40: 324220562
+      doraemon_41: -1188309995
+      doraemon_42: -319045432
+      doraemon_43: 4007122
+      doraemon_44: -1237701957
+      doraemon_45: 1331875948
+      doraemon_46: -354057088
+      doraemon_47: -1131457374
+      doraemon_48: -1262307158
+      doraemon_49: 1108415030
+      doraemon_5: -1400098219
+      doraemon_50: -2074088273
+      doraemon_51: 1426066074
+      doraemon_52: 1987684060
+      doraemon_53: 1196006867
+      doraemon_54: 2044716195
+      doraemon_55: -620913264
+      doraemon_56: -1873216082
+      doraemon_57: 518978760
+      doraemon_6: -549209850
+      doraemon_7: 234082799
+      doraemon_8: 2009505765
+      doraemon_9: 16849717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
